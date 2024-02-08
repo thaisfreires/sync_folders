@@ -15,5 +15,5 @@ Python3
 
 ## Usage
 ```bash
-python main.py "path/to/source_folder" "path/to/replica_folder" "path/to/log_file"
+python source_file.py "path/to/source_folder" "path/to/replica_folder" "path/to/log_file"
 ```
